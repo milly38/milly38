@@ -16,13 +16,12 @@
 ## 👨‍💻 Sobre Mim
 
 ```typescript
-  Emilly Santos =
-  idade: 17
-  curso Técnico: "Ciberisistemas para automação de software e hardware",
-  universidade: 
-  especialidade: C++ Python MySQL Hardware Eletrical Systems
-  localizacao: "Guaruhos, SP"
-  mentalidade: "Sempre aprendendo, sempre evoluindo"
+ nome: "Emilly Santos",
+  idade: 17,
+  formacao: "Técnica em CiberSistemas",
+  foco: ["C++", "Python", "MySQL", "Automação", "Hardware"],
+  localizacao: "Guarulhos, SP - Brasil",
+  mentalidade: "Em constante evolução, buscando conhecimento e inovação 🚀
 ```
 
 ## 🎓 Jornada Acadêmica
