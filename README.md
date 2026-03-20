@@ -79,7 +79,7 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,31,32&height=120&section=footer"/>
 </div>
 
 <div align="center">
