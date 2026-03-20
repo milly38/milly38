@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=EmillySantos&fontSize=45&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,31&height=220&section=header&text=EmillySantos&fontSize=45&fontColor=fff&animation=fadeIn"/>
 </div>
 
 <div align="center">
